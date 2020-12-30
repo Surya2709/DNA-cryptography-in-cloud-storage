@@ -1,0 +1,4 @@
+use Xampp server to run the php files
+place the php files folder in the htdocs folder of the xamp server
+start apache 
+run the main.py file
