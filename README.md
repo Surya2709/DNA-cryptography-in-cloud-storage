@@ -16,12 +16,12 @@ This project deals with the demonstration of Encryption and decryption of confid
    
 <b><h3>Running </h3></b>
 
-     <b>Step 1 </b>: Place the phpfiles folder inside the xamp/htdocs/ folder in the Xamp's Application folder.
+   <b>Step 1 </b>: Place the phpfiles folder inside the xamp/htdocs/ folder in the Xamp's Application folder.
 
-     <b>Step 2 </b>: Start apache server in the xamp
+   <b>Step 2 </b>: Start apache server in the xamp
 
-     <b>Step 2 </b>: Run the main.py file 
-     
+   <b>Step 2 </b>: Run the main.py file 
+
      
                   python main.py
                   
